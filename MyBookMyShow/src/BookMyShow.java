@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-
+// Book My Show application
 public class BookMyShow {
     ArrayList<Theater> theaters;
     static HashMap<String,ArrayList<Show>> movieMap;
